@@ -14,7 +14,7 @@
 
 ~ To `clone` this `ripository`, simply type:
 
-    git clone https://github.com/tkemza/pkgi.git
+    git clone https://github.com/n11kol11c/pkgi.git
 
 -----
 # USAGE
