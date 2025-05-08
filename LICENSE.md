@@ -1,6 +1,6 @@
 # MIT License
 
-## Copyright (c) [2024] `tkemza`
+## Copyright (c) 2024 **n11kol11c**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
